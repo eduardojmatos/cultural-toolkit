@@ -8,10 +8,16 @@
 
 ## Experiment Setup
 **Period:** 7 weeks.
+
 **Start date**: 12/05/2020.
+
 **Final date**: 29/06/2020.
+
 **Feedback Date**: 02/07/2020.
+
 **Author(s)**: Name.
+
+## Experiments scale
 
 |Experiments scale| |
 |:----|:----|
