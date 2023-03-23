@@ -1,4 +1,4 @@
-# cultural-toolkit
+# ⚙️ Cultural Toolkit
 Artifacts and tools that I normally used on my journey as a leader
 
 # Artifacts
